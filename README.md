@@ -1,7 +1,5 @@
 # RelationalDatabaseNormalizer
 
-# A Relational Model Normalizer which normalizes up to BCNF
-
 ## Running the program:
 * Clone the project to a directory of choice using `git clone https://github.com/siddarthgopalakrishnan/RelationalDatabaseNormalizer.git`
 * To use the CLI, run `./script.sh`
